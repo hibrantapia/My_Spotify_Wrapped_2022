@@ -31,7 +31,7 @@
 - I made an infographic about this project, make sure to check out the PDF file.
 - I put all the resources and references on a .txt file, make sure to check out the autors.
 
-### Check out my Spotify and Social stuff for more:
+#### Check out my Spotify and Social stuff for more:
 
 [![](https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg)](https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9)
 
