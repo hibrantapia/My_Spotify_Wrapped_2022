@@ -15,6 +15,8 @@
 <h5 align="center">January 1st, 2022 - October 31st, 2022</h5>
 <p align="center"> <img src = "/Extra_Stuff/Spotify_Wrapped_2022.png" width = 450> </p>
 
+<h1 align="center">Recipe</h1>
+
 1. I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
 2. I made an infographic about this project, make sure to check out the PDF file.
 3. This is the data I requested from Spotify and merged into just one .json file.
