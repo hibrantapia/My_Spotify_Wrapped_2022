@@ -40,10 +40,10 @@
             <td><a href="https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9">
             <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
             </a></td>
-            <td><a href="https://medium.com/@zluvsand">
+            <td><a href="https://medium.com/@hibrantapia">
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
             </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <td><a href="https://www.linkedin.com/in/hibrantapia/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
         </tr>
