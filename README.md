@@ -17,12 +17,13 @@
 
 <h1 align="left">Recipe</h1>
 
-1. Make sure to ask Spotify for your data [here.](https://www.spotify.com/us/account/privacy/)
-2. I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
-3. I made an infographic about this project, make sure to check out the PDF file.
-4. This is the data I requested from Spotify and merged into just one .json file.
-5. I put all the resources and references on a .txt file, make sure to check out the autors.
-6. This is the .R project, where all the magic happens, hope it's usefull to you.
+1. Make sure to ask Spotify for your data [here.](https://www.spotify.com/us/account/privacy/) 
+2. Once, you have the data, you can have one or multiple "StreamingHistoryX.json" files, if you have one, rename it "data.json" if you have multiple merged them into just one .json file using [this](https://dashboard.data.gov/merge), and then name that single file "data.json".
+3. I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
+4. I made an infographic about this project, make sure to check out the PDF file.
+5. This is the data I requested from Spotify and merged into just one .json file.
+6. I put all the resources and references on a .txt file, make sure to check out the autors.
+7. This is the .R project, where all the magic happens, hope it's usefull to you.
 
 You can check out my Spotify stuff here.
 - https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9
