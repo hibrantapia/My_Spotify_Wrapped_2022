@@ -35,4 +35,4 @@ Check out my Spotify stuff.
 
 [![](https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg)](https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9)
 
-Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.
+<h5 align="left">Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.</h5>
