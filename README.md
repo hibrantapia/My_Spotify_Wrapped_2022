@@ -3,7 +3,7 @@
 <h3 align="center">Hi, this is My Version of My Spotify Wrapped 2022.</h3>
 <h5 align="center">November 17th, 2021 - November 17th, 2022.</h5>
 
-<p align="center"> <img src = "/Extra_Stuff/11.png" width = 900> </p>
+<p align="center"> <img src = "/Extra_Stuff/11.png" width = 700> </p>
 
 
   <img src = "/Extra_Stuff/9.png" width = 400>
