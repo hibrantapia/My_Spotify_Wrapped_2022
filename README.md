@@ -5,6 +5,9 @@
 
 <p align="center"> <img src = "/Extra_Stuff/11.png" width = 700> </p>
 
+<h4 align="center">Top Artists</h4>
+<p align="center"> <img src = "/Extra_Stuff/9.png" width = 700> </p>
+
 
   <img src = "/Extra_Stuff/9.png" width = 400>
   ### And this is Spotify's Version of My Wrapped 2022.
