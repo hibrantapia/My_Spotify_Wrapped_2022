@@ -46,6 +46,9 @@
             <td><a href="https://www.linkedin.com/in/hibrantapia/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
+            <td><a href="https://twitter.com/HibranTapia">
+            <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-ar21.svg" />
+            </a></td>
         </tr>
     </tbody>
 </table>
