@@ -31,8 +31,8 @@
 - I made an infographic about this project, make sure to check out the PDF file.
 - I put all the resources and references on a .txt file, make sure to check out the autors.
 
-You can check out my Spotify stuff here. 
+You can check out my Spotify stuff. 
 
-[![](https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg)](https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9)
+- [![](https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg)](https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9)
 
 Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.
