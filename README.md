@@ -34,6 +34,6 @@
 You can check out my Spotify stuff here.
 - https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9
 
-Make sure to contact me if you have any questions.
+Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.
 
 Best of luck!
