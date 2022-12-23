@@ -17,7 +17,7 @@
 
 <h1 align="left">Recipe</h1>
 
-1. Make sure to ask Spotify for your data [here.] (https://www.spotify.com/us/account/privacy/)
+1. Make sure to ask Spotify for your data [here.](https://www.spotify.com/us/account/privacy/)
 2. I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
 3. I made an infographic about this project, make sure to check out the PDF file.
 4. This is the data I requested from Spotify and merged into just one .json file.
