@@ -25,12 +25,11 @@
 6. Run the program graph by graph, that way your machine doesn't explode doing this.
 7. You should be good to go.
 
+<h2 align="left">Extra Stuff</h3>
 
-4. I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
-5. I made an infographic about this project, make sure to check out the PDF file.
-6. This is the data I requested from Spotify and merged into just one .json file.
-7. I put all the resources and references on a .txt file, make sure to check out the autors.
-8. This is the .R project, where all the magic happens, hope it's usefull to you.
+- I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
+- I made an infographic about this project, make sure to check out the PDF file.
+- I put all the resources and references on a .txt file, make sure to check out the autors.
 
 You can check out my Spotify stuff here.
 - https://open.spotify.com/user/wblalhmwav9dhqci0lvqu396z?si=2adb4b3c7c044dd9
