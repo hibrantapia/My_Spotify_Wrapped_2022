@@ -18,7 +18,7 @@
 <h1 align="left">Recipe</h1>
 
 1. Make sure to ask Spotify for your data [here.](https://www.spotify.com/us/account/privacy/) 
-2. Once, you have the data, you can have one or multiple "StreamingHistoryX.json" files, if you have one, rename it "data.json" if you have multiple, merged them into just one .json file using [this](https://dashboard.data.gov/merge), and then name that single file "data.json".
+2. Once, you have your data, you can have one or multiple "StreamingHistoryX.json" files, if you have one, rename it "data.json" if you have multiple, merged them into just one .json file using [this](https://dashboard.data.gov/merge), and then name that single file "data.json".
 3. Create a folder where you are going to save this two files, the **first one is the "data.json" file** we talked about in step 2, and the **second one will be the "spotify_project.R" that is in this repository.**
 4. Make sure you have the lastest version of R and R Studio in your machine.
 5. Open "spotify_project.R" and first install all the R packages that are necessary to run the program. 
