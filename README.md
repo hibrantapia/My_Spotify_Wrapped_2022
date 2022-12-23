@@ -15,7 +15,7 @@
 <h5 align="center">January 1st, 2022 - October 31st, 2022</h5>
 <p align="center"> <img src = "/Extra_Stuff/Spotify_Wrapped_2022.png" width = 450> </p>
 
-<h1 align="left">Recipe</h1>
+<h2 align="left">Recipe</h2>
 
 1. Make sure to ask Spotify for your data [here.](https://www.spotify.com/us/account/privacy/) 
 2. Once, you have your data, you can have one or multiple "StreamingHistoryX.json" files, if you have one, rename it "data.json" if you have multiple, merged them into just one .json file using [this](https://dashboard.data.gov/merge), and then name that single file "data.json".
