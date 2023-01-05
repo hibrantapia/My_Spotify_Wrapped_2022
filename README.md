@@ -24,6 +24,7 @@
 5. Open "spotify_project.R" and first install all the R packages that are necessary to run the program. 
 6. Run the program graph by graph, that way your machine doesn't explode doing this.
 7. You should be good to go.
+8. You can use [this](https://www.canva.com/design/DAFWwIZcmOw/3JMenNG3UNKXxMaaiAydZw/edit?utm_content=DAFWwIZcmOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) Canva template to make an infographic, make a copy of it so more people can enjoy it.
 
 <h2 align="left">Extra Stuff</h3>
 
